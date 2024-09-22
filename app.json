@@ -1,13 +1,11 @@
 {
-  "expo": {
-    "scheme": "acme",
-    "web": {
-      "bundler": "metro"
-    },
-    "plugins": [
-      "expo-router"
-    ],
-    "name": "walkuest",
-    "slug": "walkuest"
-  }
+    "expo": {
+        "scheme": "acme",
+        "web": {
+            "bundler": "metro"
+        },
+        "plugins": ["expo-router"],
+        "name": "walkuest",
+        "slug": "walkuest"
+    }
 }
